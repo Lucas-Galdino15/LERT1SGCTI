@@ -1,1 +1,1 @@
-# Sistema de Gestão Chamado TI
+# Sistema de Gestão de Projetos de TI
